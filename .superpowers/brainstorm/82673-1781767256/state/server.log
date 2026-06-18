@@ -1,0 +1,3 @@
+{"type":"server-started","port":54915,"host":"127.0.0.1","url_host":"localhost","url":"http://localhost:54915","screen_dir":"/Users/digiex/Documents/app_consultant_2/.superpowers/brainstorm/82673-1781767256/content","state_dir":"/Users/digiex/Documents/app_consultant_2/.superpowers/brainstorm/82673-1781767256/state"}
+{"type":"screen-added","file":"/Users/digiex/Documents/app_consultant_2/.superpowers/brainstorm/82673-1781767256/content/toggle-placement.html"}
+{"type":"server-stopped","reason":"owner process exited"}
