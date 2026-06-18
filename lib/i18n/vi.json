@@ -1,0 +1,23 @@
+{
+  "nav.home": "Trang chủ",
+  "nav.about": "Giới thiệu",
+  "nav.services": "Dịch vụ",
+  "nav.partners": "Đối tác",
+  "nav.contact": "Liên hệ",
+  "nav.cta": "Đặt lịch tư vấn",
+
+  "hero.heading": "Tầm nhìn của bạn, Sứ mệnh của chúng tôi —\nKế toán & Tư vấn đáng tin cậy",
+  "hero.subheading": "APP Consultancy cung cấp dịch vụ kiểm toán, thuế, IFRS và tư vấn M&A dựa trên hơn 20 năm kinh nghiệm Big4 — được thiết kế riêng cho doanh nghiệp tại Việt Nam.",
+  "hero.cta": "Tư vấn miễn phí",
+  "hero.partner_name": "Michael Phạm — Đối tác (ACCA, VACPA)",
+  "hero.quote": "Chúng tôi giúp doanh nghiệp điều hướng VAS, IFRS, tuân thủ thuế và tăng trưởng — tất cả trong một đối tác đáng tin cậy.",
+
+  "about.eyebrow": "Về chúng tôi",
+  "about.heading": "Đối tác kế toán đáng tin cậy cho doanh nghiệp tại Việt Nam",
+  "about.body": "Chúng tôi là công ty kế toán và tư vấn chuyên nghiệp được thành lập bởi các lãnh đạo từ nền tảng kiểm toán quốc tế và Big4. Chúng tôi giúp doanh nghiệp tại Việt Nam tuân thủ pháp luật, giảm thiểu rủi ro và quản lý tài chính minh bạch — từ các tập đoàn đa quốc gia đến SME đang phát triển.",
+  "about.stat_label": "Đối tác đào tạo Big4",
+  "about.stat_sublabel": "KPMG · BDO · Mazars · PKF",
+  "about.value_heading": "Tầm nhìn của bạn,\nSứ mệnh của chúng tôi",
+  "about.value_body": "Chúng tôi biến mục tiêu kinh doanh của bạn thành lộ trình tài chính rõ ràng — kiểm toán, thuế, IFRS và tư vấn dựa trên chuyên môn Big4.",
+  "about.partners_sr": "Đối tác APP Consultancy"
+}

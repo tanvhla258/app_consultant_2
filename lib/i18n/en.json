@@ -1,0 +1,23 @@
+{
+  "nav.home": "Home",
+  "nav.about": "About",
+  "nav.services": "Services",
+  "nav.partners": "Partners",
+  "nav.contact": "Contact",
+  "nav.cta": "Book Consultation",
+
+  "hero.heading": "Your Vision, Our Mission —\nAccounting & Advisory You Can Trust",
+  "hero.subheading": "APP Consultancy delivers audit, tax, IFRS, and M&A advisory built on 20+ years of Big4 expertise — tailored for businesses operating in Vietnam.",
+  "hero.cta": "Get a Free Consultation",
+  "hero.partner_name": "Michael Pham — Partner (ACCA, VACPA)",
+  "hero.quote": "We help businesses navigate VAS, IFRS, tax compliance, and growth — all in one trusted partner.",
+
+  "about.eyebrow": "About Us",
+  "about.heading": "A Trusted Accounting Partner for Businesses in Vietnam",
+  "about.body": "We're a dedicated accounting and advisory firm built by leaders from international audit and Big4 backgrounds. We help businesses in Vietnam stay compliant, reduce risk, and manage their finances with clarity — from multinationals to growing SMEs.",
+  "about.stat_label": "Big4-Trained Partners",
+  "about.stat_sublabel": "KPMG · BDO · Mazars · PKF",
+  "about.value_heading": "Your Vision,\nOur Mission",
+  "about.value_body": "We turn your business goals into a clear financial roadmap — audit, tax, IFRS, and advisory built on Big4 expertise.",
+  "about.partners_sr": "APP Consultancy partners"
+}
