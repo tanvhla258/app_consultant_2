@@ -3,7 +3,7 @@ import { Compass } from "lucide-react";
 
 export function ValueCallout() {
   return (
-    <div className="flex flex-col gap-5 rounded-3xl border border-primary-100 bg-white p-6 shadow-[0_8px_30px_rgba(11,37,69,0.06)] lg:p-7">
+    <div className="flex w-full flex-col gap-5 rounded-3xl border border-primary-100 bg-white p-6 shadow-[0_8px_30px_rgba(11,37,69,0.06)] lg:p-7">
       <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-primary-500 text-secondary-400">
         <Compass size={22} aria-hidden="true" />
       </div>

@@ -3,7 +3,7 @@ import { StatBlock } from "./StatBlock";
 
 export function AboutCopy() {
   return (
-    <div>
+    <div className="flex w-full flex-col">
       <p className="max-w-sm text-base leading-relaxed text-primary-700/80">
         We&rsquo;re a dedicated accounting and advisory firm built by leaders
         from international audit and Big4 backgrounds. We help businesses in
