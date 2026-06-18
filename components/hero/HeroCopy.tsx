@@ -1,32 +1,36 @@
+"use client";
+
 import { PillButton } from "@/components/ui/PillButton";
+import { useLang } from "@/lib/i18n/useLang";
 
 export function HeroCopy() {
+  const { t } = useLang();
+  const headingParts = t("hero.heading").split("\n");
+
   return (
     <div className="max-w-xl">
       <h1 className="text-4xl font-semibold leading-none tracking-tight text-white lg:text-5xl">
-        Your Vision, Our Mission —<br />
-        Accounting &amp; Advisory You Can Trust
+        {headingParts[0]}
+        {headingParts[1] && <><br />{headingParts[1]}</>}
       </h1>
 
       <p className="mt-6 text-lg leading-relaxed text-white/70">
-        APP Consultancy delivers audit, tax, IFRS, and M&amp;A advisory built on
-        20+ years of Big4 expertise — tailored for businesses operating in Vietnam.
+        {t("hero.subheading")}
       </p>
 
       <div className="mt-8">
         <PillButton href="#contact" variant="white">
-          Get a Free Consultation
+          {t("hero.cta")}
         </PillButton>
       </div>
 
       <div className="mt-16 h-px w-24 bg-secondary-400/30" />
 
       <p className="mt-6 font-medium text-white">
-        Michael Pham — Partner (ACCA, VACPA)
+        {t("hero.partner_name")}
       </p>
       <p className="mt-2 max-w-md text-sm italic text-white/60">
-        &ldquo;We help businesses navigate VAS, IFRS, tax compliance, and growth —
-        all in one trusted partner.&rdquo;
+        &ldquo;{t("hero.quote")}&rdquo;
       </p>
     </div>
   );
