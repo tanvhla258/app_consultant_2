@@ -3,17 +3,20 @@
 import { useEffect, useState } from "react";
 import { BarChart3, Menu, X } from "lucide-react";
 import { PillButton } from "@/components/ui/PillButton";
+import { LangToggle } from "@/components/ui/LangToggle";
+import { useLang } from "@/lib/i18n/useLang";
 
-const links = [
-  { href: "#home",     label: "Home",     active: true  },
-  { href: "#about",    label: "About",    active: false },
-  { href: "#services", label: "Services", active: false },
-  { href: "#partners", label: "Partners", active: false },
-  { href: "#contact",  label: "Contact",  active: false },
+const NAV_KEYS = [
+  { href: "#home",     key: "nav.home",     active: true  },
+  { href: "#about",    key: "nav.about",    active: false },
+  { href: "#services", key: "nav.services", active: false },
+  { href: "#partners", key: "nav.partners", active: false },
+  { href: "#contact",  key: "nav.contact",  active: false },
 ];
 
 export function HeroNav() {
   const [open, setOpen] = useState(false);
+  const { t } = useLang();
 
   useEffect(() => {
     if (!open) return;
@@ -34,22 +37,23 @@ export function HeroNav() {
       </a>
 
       <ul className="hidden items-center gap-7 md:flex">
-        {links.map((l) => (
+        {NAV_KEYS.map((l) => (
           <li key={l.href}>
             <a
               href={l.href}
               className="flex items-center gap-1.5 text-sm text-white/80 transition-colors hover:text-white"
             >
               {l.active && <span className="text-secondary-400">•</span>}
-              {l.label}
+              {t(l.key)}
             </a>
           </li>
         ))}
       </ul>
 
-      <div className="hidden md:block">
+      <div className="hidden items-center gap-3 md:flex">
+        <LangToggle />
         <PillButton href="#contact" variant="white">
-          Book Consultation
+          {t("nav.cta")}
         </PillButton>
       </div>
 
@@ -70,21 +74,22 @@ export function HeroNav() {
           className="absolute inset-x-0 top-full mt-3 rounded-2xl border border-primary-400/20 bg-primary-700/95 p-5 backdrop-blur md:hidden"
         >
           <ul className="flex flex-col gap-3">
-            {links.map((l) => (
+            {NAV_KEYS.map((l) => (
               <li key={l.href}>
                 <a
                   href={l.href}
                   onClick={() => setOpen(false)}
                   className="block py-2 text-base text-white/90 hover:text-white"
                 >
-                  {l.label}
+                  {t(l.key)}
                 </a>
               </li>
             ))}
           </ul>
-          <div className="mt-4">
+          <div className="mt-4 flex flex-col gap-3">
+            <LangToggle />
             <PillButton href="#contact" variant="white" className="w-full justify-center">
-              Book Consultation
+              {t("nav.cta")}
             </PillButton>
           </div>
         </div>
