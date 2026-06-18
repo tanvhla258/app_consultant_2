@@ -3,7 +3,7 @@ import { PillButton } from "@/components/ui/PillButton";
 export function HeroCopy() {
   return (
     <div className="max-w-xl">
-      <h1 className="text-3xl font-semibold leading-[1.15] tracking-tight text-white lg:text-4xl">
+      <h1 className="text-4xl font-semibold leading-none tracking-tight text-white lg:text-5xl">
         Your Vision, Our Mission —<br />
         Accounting &amp; Advisory You Can Trust
       </h1>
