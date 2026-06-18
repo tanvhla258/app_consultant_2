@@ -1,8 +1,12 @@
-// components/about/PartnerTriptych.tsx
+"use client";
+
 import { PartnerCard } from "./PartnerCard";
 import { PARTNERS } from "./data/partners";
+import { useLang } from "@/lib/i18n/useLang";
 
 export function PartnerTriptych() {
+  const { t } = useLang();
+
   return (
     <figure className="relative flex w-full flex-col rounded-3xl border border-primary-100 bg-white p-5 shadow-[0_8px_30px_rgba(11,37,69,0.06)] lg:p-6">
       <span
@@ -13,7 +17,7 @@ export function PartnerTriptych() {
         aria-hidden="true"
         className="absolute -bottom-2 -left-2 h-1.5 w-1.5 rounded-full bg-secondary-400"
       />
-      <figcaption className="sr-only">APP Consultancy partners</figcaption>
+      <figcaption className="sr-only">{t("about.partners_sr")}</figcaption>
       <div className="grid min-h-0 flex-1 grid-cols-3 gap-3 lg:gap-4">
         {PARTNERS.map((p) => (
           <PartnerCard key={p.name} {...p} />
