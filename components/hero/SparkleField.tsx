@@ -1,10 +1,10 @@
 const sparkles = [
-  { top: "12%", left: "8%",  size: 14, delay: "0s"   },
-  { top: "22%", left: "46%", size: 10, delay: "0.6s" },
-  { top: "38%", left: "30%", size: 8,  delay: "1.2s" },
-  { top: "55%", left: "5%",  size: 12, delay: "0.3s" },
-  { top: "68%", left: "52%", size: 10, delay: "1.5s" },
-  { top: "80%", left: "20%", size: 8,  delay: "0.9s" },
+  { top: "12%", left: "8%",  size: 22, delay: "0s"   },
+  { top: "22%", left: "46%", size: 16, delay: "0.6s" },
+  { top: "38%", left: "30%", size: 13, delay: "1.2s" },
+  { top: "55%", left: "5%",  size: 20, delay: "0.3s" },
+  { top: "68%", left: "52%", size: 16, delay: "1.5s" },
+  { top: "80%", left: "20%", size: 13, delay: "0.9s" },
 ] as const;
 
 export function SparkleField() {
@@ -19,7 +19,7 @@ export function SparkleField() {
           fill="none"
           stroke="currentColor"
           strokeWidth="1.5"
-          className="absolute text-secondary-400"
+          className="absolute text-white"
           style={{
             top: s.top,
             left: s.left,

@@ -25,7 +25,7 @@ export function HeroNav() {
   return (
     <nav
       aria-label="Primary"
-      className="absolute inset-x-0 top-6 z-20 mx-auto flex max-w-[1100px] items-center justify-between gap-8 rounded-full border border-primary-400/20 bg-primary-700/60 px-6 py-3 backdrop-blur-md"
+      className="absolute top-6 z-20 flex items-center justify-between gap-8 rounded-full border border-primary-400/20 bg-primary-700/60 px-6 py-3 backdrop-blur-md left-6 right-6 md:left-10 md:right-10 lg:left-16 lg:right-16"
     >
       <a href="#home" className="flex items-center gap-2 text-white">
         <BarChart3 size={20} className="text-secondary-400" />

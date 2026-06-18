@@ -13,7 +13,7 @@ export function Hero() {
       <SparkleField />
       <HeroNav />
 
-      <div className="relative z-10 mx-auto flex min-h-screen max-w-7xl flex-col px-6 pt-32 pb-20 md:px-10 lg:flex-row lg:items-center lg:gap-12 lg:px-16 lg:pt-36">
+      <div className="relative z-10 mx-auto flex min-h-screen max-w-screen-2xl flex-col px-6 pt-32 pb-20 md:px-10 lg:flex-row lg:items-center lg:gap-12 lg:px-16 lg:pt-36">
         <div className="lg:w-3/5">
           <HeroCopy />
         </div>
