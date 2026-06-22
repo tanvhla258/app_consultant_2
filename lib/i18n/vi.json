@@ -88,5 +88,21 @@
 
   "trust.transparent.title": "Minh bạch tuyệt đối",
   "trust.transparent.bullet_1": "Báo cáo song song VAS + IFRS, không đi tắt",
-  "trust.transparent.bullet_2": "Phạm vi rõ ràng, kết quả rõ ràng, không bất ngờ ẩn"
+  "trust.transparent.bullet_2": "Phạm vi rõ ràng, kết quả rõ ràng, không bất ngờ ẩn",
+
+  "availability.heading": "Chúng tôi luôn sẵn sàng tư vấn",
+  "availability.heading_accent": "Linh hoạt theo lịch của bạn",
+  "availability.subheading": "Nhận tư vấn tài chính chuyên môn vào thời điểm phù hợp nhất với bạn.",
+
+  "availability.card.title": "Giờ Tư Vấn",
+  "availability.card.subtitle": "Chúng tôi sẵn sàng phục vụ suốt tuần với lịch tư vấn linh hoạt.",
+
+  "availability.row.mon_fri.day": "Thứ Hai – Thứ Sáu",
+  "availability.row.mon_fri.hours": "08:30 – 17:30",
+  "availability.row.sat.day": "Thứ Bảy",
+  "availability.row.sat.hours": "08:30 – 12:00",
+  "availability.row.sun.day": "Chủ Nhật",
+  "availability.row.sun.hours": "Nghỉ",
+
+  "availability.cta": "Đặt Lịch Hẹn"
 }

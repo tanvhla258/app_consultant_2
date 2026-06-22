@@ -88,5 +88,21 @@
 
   "trust.transparent.title": "Fully Transparent",
   "trust.transparent.bullet_1": "Dual VAS + IFRS reporting, no shortcuts",
-  "trust.transparent.bullet_2": "Clear scope, clear deliverables, no hidden surprises"
+  "trust.transparent.bullet_2": "Clear scope, clear deliverables, no hidden surprises",
+
+  "availability.heading": "We're Available All Week for",
+  "availability.heading_accent": "Flexible Consultation Support",
+  "availability.subheading": "Get expert financial guidance at the time that works best for you.",
+
+  "availability.card.title": "Consultation Hours",
+  "availability.card.subtitle": "We're available throughout the week and ready to assist with flexible consultation times.",
+
+  "availability.row.mon_fri.day": "Monday – Friday",
+  "availability.row.mon_fri.hours": "08:30 – 17:30",
+  "availability.row.sat.day": "Saturday",
+  "availability.row.sat.hours": "08:30 – 12:00",
+  "availability.row.sun.day": "Sunday",
+  "availability.row.sun.hours": "Closed",
+
+  "availability.cta": "Get Appointment"
 }
