@@ -88,5 +88,18 @@
 
   "trust.transparent.title": "Fully Transparent",
   "trust.transparent.bullet_1": "Dual VAS + IFRS reporting, no shortcuts",
-  "trust.transparent.bullet_2": "Clear scope, clear deliverables, no hidden surprises"
+  "trust.transparent.bullet_2": "Clear scope, clear deliverables, no hidden surprises",
+
+  "testimonials.heading": "Hear What Our Clients Say About Our",
+  "testimonials.heading_accent": "Accounting Services",
+
+  "testimonials.role.cfo": "CFO",
+  "testimonials.role.founder": "Founder",
+  "testimonials.role.managing_director": "Managing Director",
+  "testimonials.role.head_of_finance": "Head of Finance",
+
+  "testimonials.mfg.quote": "APP's team rebuilt our VAS → IFRS conversion process from scratch. Audit went from a six-week scramble to two weeks.",
+  "testimonials.fnb.quote": "Payroll and tax filing have been flawless through three rounds of expansion. We just don't think about it anymore.",
+  "testimonials.realestate.quote": "Their financial due diligence caught two issues we'd have missed. Saved us a deal we'd have regretted.",
+  "testimonials.tech.quote": "Transfer pricing documentation done right and on deadline — three years running. Worth every dong."
 }

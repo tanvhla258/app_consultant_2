@@ -88,5 +88,18 @@
 
   "trust.transparent.title": "Minh bạch tuyệt đối",
   "trust.transparent.bullet_1": "Báo cáo song song VAS + IFRS, không đi tắt",
-  "trust.transparent.bullet_2": "Phạm vi rõ ràng, kết quả rõ ràng, không bất ngờ ẩn"
+  "trust.transparent.bullet_2": "Phạm vi rõ ràng, kết quả rõ ràng, không bất ngờ ẩn",
+
+  "testimonials.heading": "Khách hàng nói gì về dịch vụ",
+  "testimonials.heading_accent": "Kế toán của chúng tôi",
+
+  "testimonials.role.cfo": "Giám đốc Tài chính",
+  "testimonials.role.founder": "Người sáng lập",
+  "testimonials.role.managing_director": "Tổng Giám đốc",
+  "testimonials.role.head_of_finance": "Trưởng phòng Tài chính",
+
+  "testimonials.mfg.quote": "Đội APP đã xây lại quy trình chuyển VAS → IFRS cho chúng tôi từ đầu. Kiểm toán từ sáu tuần chạy nước rút giảm còn hai tuần.",
+  "testimonials.fnb.quote": "Tính lương và khai thuế trôi chảy suốt ba lần mở rộng. Chúng tôi không còn phải bận tâm nữa.",
+  "testimonials.realestate.quote": "Thẩm định tài chính của họ phát hiện hai vấn đề chúng tôi đã bỏ sót. Cứu được một thương vụ mà chúng tôi đã hối hận nếu chốt.",
+  "testimonials.tech.quote": "Hồ sơ chuyển giá làm đúng và đúng hạn — ba năm liên tiếp. Đáng từng đồng."
 }
