@@ -4,6 +4,8 @@ import { CoreServicesSection } from "@/components/services/CoreServicesSection";
 import { TestimonialsSection } from "@/components/testimonials/TestimonialsSection";
 import { TeamSection } from "@/components/team/TeamSection";
 import { AvailabilitySection } from "@/components/availability/AvailabilitySection";
+import { ContactSection } from "@/components/contact/ContactSection";
+import { FloatingBookButton } from "@/components/floating-button/FloatingBookButton";
 
 export default function Home() {
   return (
@@ -14,6 +16,8 @@ export default function Home() {
       <TestimonialsSection />
       <TeamSection />
       <AvailabilitySection />
+      <ContactSection />
+      <FloatingBookButton />
     </main>
   );
 }
