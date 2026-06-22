@@ -15,7 +15,7 @@ export function AvailabilitySection() {
         <div className="mt-14 grid items-stretch gap-6 lg:mt-16 lg:grid-cols-2 lg:gap-10">
           <div className="relative aspect-[4/3] w-full overflow-hidden rounded-3xl lg:aspect-auto lg:h-full">
             <Image
-              src="/images/sections/08-availability.webp"
+              src="https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=800&q=80"
               alt=""
               fill
               className="object-cover"
