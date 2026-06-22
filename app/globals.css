@@ -36,6 +36,9 @@
   --color-secondary-900: #2a1e0a;
 
   --color-surface: #f5f7fa;
+
+  --color-cta-blue: #2A4BFF;
+  --color-cta-blue-700: #1F38C6;
 }
 
 @media (prefers-color-scheme: dark) {

@@ -26,6 +26,10 @@ export const colors = {
     900: "#2A1E0A",
   },
   surface: "#F5F7FA",
+  ctaBlue: {
+    500: "#2A4BFF",
+    700: "#1F38C6",
+  },
   background: "#FFFFFF",
   foreground: "#171717",
 } as const;
