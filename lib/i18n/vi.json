@@ -67,5 +67,26 @@
   "services.transfer.description": "Documentation, review, and authority-support services that protect your transfer pricing position.",
   "services.transfer.bullet_1": "Transfer pricing documentation",
   "services.transfer.bullet_2": "Transfer pricing review",
-  "services.transfer.bullet_3": "Transfer pricing investigation support"
+  "services.transfer.bullet_3": "Transfer pricing investigation support",
+
+  "trust.eyebrow": "Vì sao tin chúng tôi",
+  "trust.heading": "Vì sao doanh nghiệp",
+  "trust.heading_accent": "tin chúng tôi với tài chính của họ",
+  "trust.subheading": "Đối tác đào tạo tại Big4, thông thạo cả VAS và IFRS, cùng một phương pháp đã được kiểm chứng — kế toán vận hành âm thầm phía sau doanh nghiệp của bạn.",
+
+  "trust.success.title": "Thành quả đã chứng minh",
+  "trust.success.bullet_1": "Hơn 20 năm kinh nghiệm partner trong kiểm toán, thuế, IFRS và M&A",
+  "trust.success.bullet_2": "Đã phục vụ Masan, Novaland, Vietcombank, Maersk và 90+ doanh nghiệp khác",
+
+  "trust.expertise.title": "Chuyên môn dẫn dắt",
+  "trust.expertise.bullet_1": "3 partner đào tạo tại Big4 (KPMG, BDO, Mazars, PKF)",
+  "trust.expertise.bullet_2": "Chứng chỉ ACCA và VACPA xuyên suốt đội ngũ partner",
+
+  "trust.timely.title": "Đúng hạn, không trễ",
+  "trust.timely.bullet_1": "Phục vụ 13+ ngành, từ sản xuất đến ngân hàng",
+  "trust.timely.bullet_2": "Triển khai theo thứ tự rủi ro, có giám sát liên tục",
+
+  "trust.transparent.title": "Minh bạch tuyệt đối",
+  "trust.transparent.bullet_1": "Báo cáo song song VAS + IFRS, không đi tắt",
+  "trust.transparent.bullet_2": "Phạm vi rõ ràng, kết quả rõ ràng, không bất ngờ ẩn"
 }

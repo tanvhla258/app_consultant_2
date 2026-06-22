@@ -67,5 +67,26 @@
   "services.transfer.description": "Documentation, review, and authority-support services that protect your transfer pricing position.",
   "services.transfer.bullet_1": "Transfer pricing documentation",
   "services.transfer.bullet_2": "Transfer pricing review",
-  "services.transfer.bullet_3": "Transfer pricing investigation support"
+  "services.transfer.bullet_3": "Transfer pricing investigation support",
+
+  "trust.eyebrow": "Why Trust Us",
+  "trust.heading": "Why Businesses",
+  "trust.heading_accent": "Trust Us With Their Finances",
+  "trust.subheading": "Big4-trained partners, dual VAS/IFRS fluency, and a proven method — accounting that quietly runs in the background of your business.",
+
+  "trust.success.title": "Proven Success",
+  "trust.success.bullet_1": "20+ years of partner experience across audit, tax, IFRS, and M&A",
+  "trust.success.bullet_2": "Engagements with Masan, Novaland, Vietcombank, Maersk and 90+ more",
+
+  "trust.expertise.title": "Expert Guidance",
+  "trust.expertise.bullet_1": "3 Big4-trained partners (KPMG, BDO, Mazars, PKF)",
+  "trust.expertise.bullet_2": "ACCA + VACPA credentials across the partnership",
+
+  "trust.timely.title": "Timely Solutions",
+  "trust.timely.bullet_1": "13+ industries served, from manufacturing to banking",
+  "trust.timely.bullet_2": "Risk-prioritized delivery with ongoing monitoring built in",
+
+  "trust.transparent.title": "Fully Transparent",
+  "trust.transparent.bullet_1": "Dual VAS + IFRS reporting, no shortcuts",
+  "trust.transparent.bullet_2": "Clear scope, clear deliverables, no hidden surprises"
 }
