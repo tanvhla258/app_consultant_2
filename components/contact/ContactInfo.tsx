@@ -1,3 +1,4 @@
+"use client";
 import { Mail, Phone, MapPin } from "lucide-react";
 import { useLang } from "@/lib/i18n/useLang";
 
