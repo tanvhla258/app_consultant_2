@@ -43,6 +43,7 @@ export function ContactForm() {
 
   function handleChange(field: keyof FormData) {
     return (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
+      setSubmitted(false);
       setFormData((prev) => ({ ...prev, [field]: e.target.value }));
     };
   }
@@ -77,10 +78,12 @@ export function ContactForm() {
           placeholder={t("contact.form.name")}
           value={formData.name}
           onChange={handleChange("name")}
+          aria-invalid={!!errors.name}
+          aria-describedby={errors.name ? "name-error" : undefined}
           className="w-full rounded-xl bg-white/10 px-4 py-3 text-sm text-white placeholder-white/40 backdrop-blur-sm transition-colors focus:bg-white/15 focus:outline-none focus:ring-2 focus:ring-secondary-400"
           required
         />
-        {errors.name && <p className="mt-1 text-xs text-red-300">{errors.name}</p>}
+        {errors.name && <p id="name-error" role="alert" className="mt-1 text-xs text-red-300">{errors.name}</p>}
       </div>
 
       <div>
@@ -93,10 +96,12 @@ export function ContactForm() {
           placeholder={t("contact.form.email")}
           value={formData.email}
           onChange={handleChange("email")}
+          aria-invalid={!!errors.email}
+          aria-describedby={errors.email ? "email-error" : undefined}
           className="w-full rounded-xl bg-white/10 px-4 py-3 text-sm text-white placeholder-white/40 backdrop-blur-sm transition-colors focus:bg-white/15 focus:outline-none focus:ring-2 focus:ring-secondary-400"
           required
         />
-        {errors.email && <p className="mt-1 text-xs text-red-300">{errors.email}</p>}
+        {errors.email && <p id="email-error" role="alert" className="mt-1 text-xs text-red-300">{errors.email}</p>}
       </div>
 
       <div>
@@ -123,10 +128,13 @@ export function ContactForm() {
           placeholder={t("contact.form.message")}
           value={formData.message}
           onChange={handleChange("message")}
+          aria-invalid={!!errors.message}
+          aria-describedby={errors.message ? "message-error" : undefined}
+          maxLength={2000}
           className="w-full rounded-xl bg-white/10 px-4 py-3 text-sm text-white placeholder-white/40 backdrop-blur-sm transition-colors focus:bg-white/15 focus:outline-none focus:ring-2 focus:ring-secondary-400"
           required
         />
-        {errors.message && <p className="mt-1 text-xs text-red-300">{errors.message}</p>}
+        {errors.message && <p id="message-error" role="alert" className="mt-1 text-xs text-red-300">{errors.message}</p>}
       </div>
 
       {submitted && (
