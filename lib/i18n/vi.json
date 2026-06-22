@@ -122,5 +122,21 @@
 
   "team.michael.experience": "17+ năm",
   "team.michael.firms": "Từng làm KPMG · BDO · Mazars · PKF",
-  "team.michael.industries": "Ngân hàng · Đầu tư · Bán lẻ · Bất động sản · F&B"
+  "team.michael.industries": "Ngân hàng · Đầu tư · Bán lẻ · Bất động sản · F&B",
+
+  "availability.heading": "Chúng tôi luôn sẵn sàng tư vấn",
+  "availability.heading_accent": "Linh hoạt theo lịch của bạn",
+  "availability.subheading": "Nhận tư vấn tài chính chuyên môn vào thời điểm phù hợp nhất với bạn.",
+
+  "availability.card.title": "Giờ Tư Vấn",
+  "availability.card.subtitle": "Chúng tôi sẵn sàng phục vụ suốt tuần với lịch tư vấn linh hoạt.",
+
+  "availability.row.mon_fri.day": "Thứ Hai – Thứ Sáu",
+  "availability.row.mon_fri.hours": "08:30 – 17:30",
+  "availability.row.sat.day": "Thứ Bảy",
+  "availability.row.sat.hours": "08:30 – 12:00",
+  "availability.row.sun.day": "Chủ Nhật",
+  "availability.row.sun.hours": "Nghỉ",
+
+  "availability.cta": "Đặt Lịch Hẹn"
 }

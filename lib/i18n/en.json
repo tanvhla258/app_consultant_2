@@ -122,5 +122,21 @@
 
   "team.michael.experience": "17+ years",
   "team.michael.firms": "ex-KPMG · BDO · Mazars · PKF",
-  "team.michael.industries": "Banking · Investment · Retail · Real Estate · F&B"
+  "team.michael.industries": "Banking · Investment · Retail · Real Estate · F&B",
+
+  "availability.heading": "We're Available All Week for",
+  "availability.heading_accent": "Flexible Consultation Support",
+  "availability.subheading": "Get expert financial guidance at the time that works best for you.",
+
+  "availability.card.title": "Consultation Hours",
+  "availability.card.subtitle": "We're available throughout the week and ready to assist with flexible consultation times.",
+
+  "availability.row.mon_fri.day": "Monday – Friday",
+  "availability.row.mon_fri.hours": "08:30 – 17:30",
+  "availability.row.sat.day": "Saturday",
+  "availability.row.sat.hours": "08:30 – 12:00",
+  "availability.row.sun.day": "Sunday",
+  "availability.row.sun.hours": "Closed",
+
+  "availability.cta": "Get Appointment"
 }
