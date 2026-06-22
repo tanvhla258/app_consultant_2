@@ -8,7 +8,7 @@ export function ServicesHeadline() {
   const heading = t("services.heading");
   const accent = t("services.heading_accent");
   const [before, after] = heading.split(accent);
-  const hasSplit = after !== undefined;
+  const hasSplit = after !== undefined && after.length > 0;
 
   return (
     <div className="mb-10 flex flex-col gap-6 lg:mb-14 lg:flex-row lg:items-end lg:justify-between">
