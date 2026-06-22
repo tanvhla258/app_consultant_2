@@ -88,5 +88,26 @@
 
   "trust.transparent.title": "Fully Transparent",
   "trust.transparent.bullet_1": "Dual VAS + IFRS reporting, no shortcuts",
-  "trust.transparent.bullet_2": "Clear scope, clear deliverables, no hidden surprises"
+  "trust.transparent.bullet_2": "Clear scope, clear deliverables, no hidden surprises",
+
+  "team.heading": "Meet Our Expert",
+  "team.heading_accent": "CPA Team",
+  "team.subheading": "Dedicated professionals providing reliable, transparent, and growth-focused accounting solutions — Big4-trained, dual VAS/IFRS fluent, and grounded in 17+ years of industry leadership.",
+
+  "team.label.credentials": "Credentials",
+  "team.label.experience": "Experience",
+  "team.label.firms": "Worked at",
+  "team.label.industries": "Industry focus",
+
+  "team.christ.experience": "20+ years",
+  "team.christ.firms": "ex-KPMG (10 yrs)",
+  "team.christ.industries": "Consumer Goods · Real Estate · Services",
+
+  "team.dennis.experience": "19+ years",
+  "team.dennis.firms": "Big4 (7+ yrs)",
+  "team.dennis.industries": "Manufacturing · Property · Hospitality · Retail · Logistics",
+
+  "team.michael.experience": "17+ years",
+  "team.michael.firms": "ex-KPMG · BDO · Mazars · PKF",
+  "team.michael.industries": "Banking · Investment · Retail · Real Estate · F&B"
 }

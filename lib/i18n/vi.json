@@ -88,5 +88,26 @@
 
   "trust.transparent.title": "Minh bạch tuyệt đối",
   "trust.transparent.bullet_1": "Báo cáo song song VAS + IFRS, không đi tắt",
-  "trust.transparent.bullet_2": "Phạm vi rõ ràng, kết quả rõ ràng, không bất ngờ ẩn"
+  "trust.transparent.bullet_2": "Phạm vi rõ ràng, kết quả rõ ràng, không bất ngờ ẩn",
+
+  "team.heading": "Đội ngũ CPA",
+  "team.heading_accent": "Chuyên gia của chúng tôi",
+  "team.subheading": "Đội ngũ chuyên nghiệp, mang đến giải pháp kế toán đáng tin cậy, minh bạch và đồng hành cùng tăng trưởng — đào tạo tại Big4, thông thạo cả VAS và IFRS, với 17+ năm dẫn dắt ngành.",
+
+  "team.label.credentials": "Chứng chỉ",
+  "team.label.experience": "Kinh nghiệm",
+  "team.label.firms": "Đã làm việc tại",
+  "team.label.industries": "Lĩnh vực chuyên môn",
+
+  "team.christ.experience": "20+ năm",
+  "team.christ.firms": "Từng làm KPMG (10 năm)",
+  "team.christ.industries": "Hàng tiêu dùng · Bất động sản · Dịch vụ",
+
+  "team.dennis.experience": "19+ năm",
+  "team.dennis.firms": "Big4 (7+ năm)",
+  "team.dennis.industries": "Sản xuất · Bất động sản · Khách sạn · Bán lẻ · Logistics",
+
+  "team.michael.experience": "17+ năm",
+  "team.michael.firms": "Từng làm KPMG · BDO · Mazars · PKF",
+  "team.michael.industries": "Ngân hàng · Đầu tư · Bán lẻ · Bất động sản · F&B"
 }
