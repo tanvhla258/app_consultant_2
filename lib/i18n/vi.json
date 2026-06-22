@@ -19,5 +19,53 @@
   "about.stat_sublabel": "KPMG · BDO · Mazars · PKF",
   "about.value_heading": "Tầm nhìn của bạn,\nSứ mệnh của chúng tôi",
   "about.value_body": "Chúng tôi biến mục tiêu kinh doanh của bạn thành lộ trình tài chính rõ ràng — kiểm toán, thuế, IFRS và tư vấn dựa trên chuyên môn Big4.",
-  "about.partners_sr": "Đối tác APP Consultancy"
+  "about.partners_sr": "Đối tác APP Consultancy",
+
+  "services.eyebrow": "Our Services",
+  "services.heading": "Core Services To Simplify Your Finances",
+  "services.heading_accent": "Simplify Your Finances",
+  "services.cta_all": "View All Services",
+  "services.cta_item": "Explore Service Details",
+
+  "services.accounting.title": "Accounting",
+  "services.accounting.description": "End-to-end bookkeeping, statutory reporting, and IFRS conversion handled by Big4-trained accountants.",
+  "services.accounting.bullet_1": "Bookkeeping and preparation of financial statements",
+  "services.accounting.bullet_2": "Audit and review of financial statements",
+  "services.accounting.bullet_3": "Consulting on converting financial statements to IFRS",
+  "services.accounting.bullet_4": "Payroll, tax and employee insurance services",
+
+  "services.tax.title": "Tax",
+  "services.tax.description": "Strategic planning, filing, and audit support to keep your business compliant and tax-efficient.",
+  "services.tax.bullet_1": "Tax planning",
+  "services.tax.bullet_2": "Tax support and filing",
+  "services.tax.bullet_3": "Tax compliance consulting and review",
+  "services.tax.bullet_4": "Tax audit support",
+
+  "services.financial.title": "Financial Advisory",
+  "services.financial.description": "Management reporting and budgeting systems built around how your leadership team actually makes decisions.",
+  "services.financial.bullet_1": "Building a Management Reporting System According to the Needs and Management Purposes of the Enterprise",
+  "services.financial.bullet_2": "Budget planning consulting",
+
+  "services.training.title": "Training Services",
+  "services.training.description": "Practical financial and IFRS training delivered on-site, tailored to your team's role and seniority.",
+  "services.training.bullet_1": "Providing accounting training services at enterprises (including financial accounting and management accounting)",
+  "services.training.bullet_2": "Training on International Financial Reporting Standards (IFRS)",
+
+  "services.business.title": "Business Advisory",
+  "services.business.description": "Restructuring, internal audit, and control improvements that strengthen how your business is run.",
+  "services.business.bullet_1": "Business Restructuring Consulting",
+  "services.business.bullet_2": "Establish and improve internal audit function",
+  "services.business.bullet_3": "Improve internal control and financial management",
+
+  "services.ma.title": "M&A Advisory",
+  "services.ma.description": "Tax, financial, and legal due diligence to de-risk acquisitions, divestitures, and investment decisions.",
+  "services.ma.bullet_1": "Tax Due Diligence",
+  "services.ma.bullet_2": "Financial Due Diligence",
+  "services.ma.bullet_3": "Legal Due Diligence",
+
+  "services.transfer.title": "Transfer Pricing",
+  "services.transfer.description": "Documentation, review, and authority-support services that protect your transfer pricing position.",
+  "services.transfer.bullet_1": "Transfer pricing documentation",
+  "services.transfer.bullet_2": "Transfer pricing review",
+  "services.transfer.bullet_3": "Transfer pricing investigation support"
 }
