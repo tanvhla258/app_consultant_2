@@ -101,5 +101,26 @@
   "testimonials.mfg.quote": "Đội APP đã xây lại quy trình chuyển VAS → IFRS cho chúng tôi từ đầu. Kiểm toán từ sáu tuần chạy nước rút giảm còn hai tuần.",
   "testimonials.fnb.quote": "Tính lương và khai thuế trôi chảy suốt ba lần mở rộng. Chúng tôi không còn phải bận tâm nữa.",
   "testimonials.realestate.quote": "Thẩm định tài chính của họ phát hiện hai vấn đề chúng tôi đã bỏ sót. Cứu được một thương vụ mà chúng tôi đã hối hận nếu chốt.",
-  "testimonials.tech.quote": "Hồ sơ chuyển giá làm đúng và đúng hạn — ba năm liên tiếp. Đáng từng đồng."
+  "testimonials.tech.quote": "Hồ sơ chuyển giá làm đúng và đúng hạn — ba năm liên tiếp. Đáng từng đồng.",
+
+  "team.heading": "Đội ngũ CPA",
+  "team.heading_accent": "Chuyên gia của chúng tôi",
+  "team.subheading": "Đội ngũ chuyên nghiệp, mang đến giải pháp kế toán đáng tin cậy, minh bạch và đồng hành cùng tăng trưởng — đào tạo tại Big4, thông thạo cả VAS và IFRS, với 17+ năm dẫn dắt ngành.",
+
+  "team.label.credentials": "Chứng chỉ",
+  "team.label.experience": "Kinh nghiệm",
+  "team.label.firms": "Đã làm việc tại",
+  "team.label.industries": "Lĩnh vực chuyên môn",
+
+  "team.christ.experience": "20+ năm",
+  "team.christ.firms": "Từng làm KPMG (10 năm)",
+  "team.christ.industries": "Hàng tiêu dùng · Bất động sản · Dịch vụ",
+
+  "team.dennis.experience": "19+ năm",
+  "team.dennis.firms": "Big4 (7+ năm)",
+  "team.dennis.industries": "Sản xuất · Bất động sản · Khách sạn · Bán lẻ · Logistics",
+
+  "team.michael.experience": "17+ năm",
+  "team.michael.firms": "Từng làm KPMG · BDO · Mazars · PKF",
+  "team.michael.industries": "Ngân hàng · Đầu tư · Bán lẻ · Bất động sản · F&B"
 }

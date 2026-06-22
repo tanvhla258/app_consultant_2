@@ -101,5 +101,26 @@
   "testimonials.mfg.quote": "APP's team rebuilt our VAS → IFRS conversion process from scratch. Audit went from a six-week scramble to two weeks.",
   "testimonials.fnb.quote": "Payroll and tax filing have been flawless through three rounds of expansion. We just don't think about it anymore.",
   "testimonials.realestate.quote": "Their financial due diligence caught two issues we'd have missed. Saved us a deal we'd have regretted.",
-  "testimonials.tech.quote": "Transfer pricing documentation done right and on deadline — three years running. Worth every dong."
+  "testimonials.tech.quote": "Transfer pricing documentation done right and on deadline — three years running. Worth every dong.",
+
+  "team.heading": "Meet Our Expert",
+  "team.heading_accent": "CPA Team",
+  "team.subheading": "Dedicated professionals providing reliable, transparent, and growth-focused accounting solutions — Big4-trained, dual VAS/IFRS fluent, and grounded in 17+ years of industry leadership.",
+
+  "team.label.credentials": "Credentials",
+  "team.label.experience": "Experience",
+  "team.label.firms": "Worked at",
+  "team.label.industries": "Industry focus",
+
+  "team.christ.experience": "20+ years",
+  "team.christ.firms": "ex-KPMG (10 yrs)",
+  "team.christ.industries": "Consumer Goods · Real Estate · Services",
+
+  "team.dennis.experience": "19+ years",
+  "team.dennis.firms": "Big4 (7+ yrs)",
+  "team.dennis.industries": "Manufacturing · Property · Hospitality · Retail · Logistics",
+
+  "team.michael.experience": "17+ years",
+  "team.michael.firms": "ex-KPMG · BDO · Mazars · PKF",
+  "team.michael.industries": "Banking · Investment · Retail · Real Estate · F&B"
 }
