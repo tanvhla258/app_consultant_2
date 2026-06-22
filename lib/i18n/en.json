@@ -138,5 +138,29 @@
   "availability.row.sun.day": "Sunday",
   "availability.row.sun.hours": "Closed",
 
-  "availability.cta": "Get Appointment"
+  "availability.cta": "Get Appointment",
+
+  "floating.cta": "Book a Consultant",
+
+  "contact.eyebrow": "Contact Us",
+  "contact.heading": "Let's Start a Conversation",
+  "contact.body": "Ready to transform your business? Fill out the form and we'll get back to you within 24 hours.",
+  "contact.email_label": "Email",
+  "contact.email_value": "contact@appconsultancy.com",
+  "contact.phone_label": "Phone",
+  "contact.phone_value": "+84 (0) 28 1234 5678",
+  "contact.location_label": "Office",
+  "contact.location_value": "Ho Chi Minh City, Vietnam",
+
+  "contact.form.name": "Full Name",
+  "contact.form.email": "Email Address",
+  "contact.form.phone": "Phone Number",
+  "contact.form.phone_optional": "(optional)",
+  "contact.form.message": "Your Message",
+  "contact.form.submit": "Send Message",
+  "contact.form.success": "Opening your email client...",
+  "contact.form.name_required": "Name is required",
+  "contact.form.email_required": "Email is required",
+  "contact.form.email_invalid": "Please enter a valid email",
+  "contact.form.message_required": "Message is required"
 }
