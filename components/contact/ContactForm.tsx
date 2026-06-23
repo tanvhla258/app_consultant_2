@@ -28,6 +28,7 @@ export function ContactForm() {
   });
   const [errors, setErrors] = useState<FormErrors>({});
   const [submitted, setSubmitted] = useState(false);
+  const [submitError, setSubmitError] = useState<string | null>(null);
 
   function validate(): FormErrors {
     const errs: FormErrors = {};
@@ -57,11 +58,19 @@ export function ContactForm() {
     }
 
     setErrors({});
-    const subject = encodeURIComponent(`Consultation Request from ${formData.name}`);
-    const body = encodeURIComponent(
-      `Name: ${formData.name}\nEmail: ${formData.email}\nPhone: ${formData.phone}\n\nMessage:\n${formData.message}`
+    setSubmitError(null);
+    const subject = encodeURIComponent(
+      t("contact.form.email_subject").replace("{name}", formData.name)
     );
-    window.location.href = `mailto:${DEST_EMAIL}?subject=${subject}&body=${body}`;
+    const body = encodeURIComponent(
+      `${t("contact.form.name")}: ${formData.name}\n${t("contact.form.email")}: ${formData.email}\n${t("contact.form.phone")}: ${formData.phone}\n\n${t("contact.form.message")}:\n${formData.message}`
+    );
+    try {
+      window.location.href = `mailto:${DEST_EMAIL}?subject=${subject}&body=${body}`;
+    } catch {
+      setSubmitError(t("contact.form.error_opening_email"));
+      return;
+    }
     setSubmitted(true);
     setFormData({ name: "", email: "", phone: "", message: "" });
   }
@@ -139,6 +148,9 @@ export function ContactForm() {
 
       {submitted && (
         <p className="text-sm text-green-300">{t("contact.form.success")}</p>
+      )}
+      {submitError && (
+        <p className="text-sm text-red-300" role="alert">{submitError}</p>
       )}
 
       <button

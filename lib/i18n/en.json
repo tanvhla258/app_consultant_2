@@ -159,8 +159,10 @@
   "contact.form.message": "Your Message",
   "contact.form.submit": "Send Message",
   "contact.form.success": "Opening your email client...",
+  "contact.form.email_subject": "Consultation Request from {name}",
   "contact.form.name_required": "Name is required",
   "contact.form.email_required": "Email is required",
   "contact.form.email_invalid": "Please enter a valid email",
-  "contact.form.message_required": "Message is required"
+  "contact.form.message_required": "Message is required",
+  "contact.form.error_opening_email": "Could not open email client. Please contact us directly at contact@appconsultancy.com."
 }

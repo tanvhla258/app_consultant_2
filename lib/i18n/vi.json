@@ -159,8 +159,10 @@
   "contact.form.message": "Nội dung tin nhắn",
   "contact.form.submit": "Gửi tin nhắn",
   "contact.form.success": "Đang mở ứng dụng email của bạn...",
+  "contact.form.email_subject": "Yêu cầu tư vấn từ {name}",
   "contact.form.name_required": "Tên là bắt buộc",
   "contact.form.email_required": "Email là bắt buộc",
   "contact.form.email_invalid": "Vui lòng nhập email hợp lệ",
-  "contact.form.message_required": "Nội dung là bắt buộc"
+  "contact.form.message_required": "Nội dung là bắt buộc",
+  "contact.form.error_opening_email": "Không thể mở ứng dụng email. Vui lòng liên hệ trực tiếp tại contact@appconsultancy.com."
 }
