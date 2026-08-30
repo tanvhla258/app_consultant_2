@@ -1,11 +1,10 @@
 // lib/site.ts — single source of truth for SEO / site-wide constants.
-// Override the URL per-environment with NEXT_PUBLIC_SITE_URL (e.g. on Vercel).
+// The production domain is the canonical host so metadata (canonical URL,
+// OG images) always points at appglobal.com.vn, never the *.vercel.app URL.
+// Override per-environment with NEXT_PUBLIC_SITE_URL if the domain changes.
 
 export const SITE_URL = (
-  process.env.NEXT_PUBLIC_SITE_URL ??
-  (process.env.VERCEL_PROJECT_PRODUCTION_URL
-    ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
-    : "https://appglobal.com.vn")
+  process.env.NEXT_PUBLIC_SITE_URL ?? "https://appglobal.com.vn"
 ).replace(/\/$/, "");
 
 export const SITE = {
