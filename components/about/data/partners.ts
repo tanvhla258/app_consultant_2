@@ -35,7 +35,7 @@ export const PARTNERS: readonly Partner[] = [
     name: "Vincent Choo Wing Sung",
     title: "Partner · Head of Business",
     credentials: "FCA (UK) · ACMA (UK) · CGMA · CA(M)",
-    image: "/images/partners/vincent.jpg",
+    image: "/images/partners/vincent_2.jpg",
     alt: "Vincent Choo Wing Sung, Partner at APP Consultancy",
   },
 ] as const;
