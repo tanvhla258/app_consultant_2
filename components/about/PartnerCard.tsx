@@ -5,7 +5,7 @@ import type { Partner } from "./data/partners";
 export function PartnerCard({ name, title, credentials, image, alt }: Partner) {
   return (
     <figure className="flex h-full flex-col">
-      <div className="relative min-h-0 flex-1 overflow-hidden rounded-2xl bg-primary-50">
+      <div className="relative aspect-[3/4] w-full overflow-hidden rounded-2xl bg-primary-50">
         <Image
           src={image}
           alt={alt}

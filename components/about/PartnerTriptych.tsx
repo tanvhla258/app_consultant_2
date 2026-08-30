@@ -18,7 +18,7 @@ export function PartnerTriptych() {
         className="absolute -bottom-2 -left-2 h-1.5 w-1.5 rounded-full bg-secondary-400"
       />
       <figcaption className="sr-only">{t("about.partners_sr")}</figcaption>
-      <div className="grid min-h-0 flex-1 grid-cols-3 gap-3 lg:gap-4">
+      <div className="grid min-h-0 flex-1 grid-cols-4 gap-2 lg:gap-3">
         {PARTNERS.map((p) => (
           <PartnerCard key={p.name} {...p} />
         ))}

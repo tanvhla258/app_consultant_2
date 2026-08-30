@@ -1,7 +1,7 @@
 import { PARTNERS, type Partner } from "@/components/about/data/partners";
 
 export type TeamMember = Partner & {
-  id: "christ" | "dennis" | "michael";
+  id: "christ" | "dennis" | "michael" | "vincent";
   experienceKey: string;
   firmsKey: string;
   industriesKey: string;
@@ -28,5 +28,12 @@ export const TEAM: readonly TeamMember[] = [
     experienceKey: "team.michael.experience",
     firmsKey: "team.michael.firms",
     industriesKey: "team.michael.industries",
+  },
+  {
+    ...PARTNERS[3],
+    id: "vincent",
+    experienceKey: "team.vincent.experience",
+    firmsKey: "team.vincent.firms",
+    industriesKey: "team.vincent.industries",
   },
 ] as const;

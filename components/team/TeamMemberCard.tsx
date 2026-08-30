@@ -28,6 +28,14 @@ export function TeamMemberCard({ member }: Props) {
         <p className="text-sm text-primary-700/60">
           {member.title} · {member.credentials}
         </p>
+        {member.email && (
+          <a
+            href={`mailto:${member.email}`}
+            className="mt-1 w-fit text-sm font-medium text-secondary-600 hover:underline"
+          >
+            {member.email}
+          </a>
+        )}
       </div>
 
       <dl className="flex flex-col gap-3">

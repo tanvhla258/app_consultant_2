@@ -111,6 +111,7 @@
   "team.label.experience": "Experience",
   "team.label.firms": "Worked at",
   "team.label.industries": "Industry focus",
+  "team.label.email": "Email",
 
   "team.christ.experience": "20+ years",
   "team.christ.firms": "ex-KPMG (10 yrs)",
@@ -123,6 +124,10 @@
   "team.michael.experience": "17+ years",
   "team.michael.firms": "ex-KPMG · BDO · Mazars · PKF",
   "team.michael.industries": "Banking · Investment · Retail · Real Estate · F&B",
+
+  "team.vincent.experience": "28+ years",
+  "team.vincent.firms": "CT Group · Mapletree · Somerset",
+  "team.vincent.industries": "Real Estate · Construction · Logistics · Hospitality",
 
   "availability.heading": "We're Available All Week for",
   "availability.heading_accent": "Flexible Consultation Support",

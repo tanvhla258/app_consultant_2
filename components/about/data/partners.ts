@@ -5,6 +5,7 @@ export type Partner = {
   credentials: string;
   image: string;
   alt: string;
+  email?: string;
 };
 
 export const PARTNERS: readonly Partner[] = [
@@ -19,8 +20,9 @@ export const PARTNERS: readonly Partner[] = [
     name: "Dennis Nguyen",
     title: "Partner",
     credentials: "MBA · ACCA · VACPA",
-    image: "/images/partners/dennis.jpg",
+    image: "/images/partners/dennis_2.jpg",
     alt: "Dennis Nguyen, Partner at APP Consultancy",
+    email: "dennisnguyen1905@gmail.com",
   },
   {
     name: "Michael Pham",
@@ -28,5 +30,12 @@ export const PARTNERS: readonly Partner[] = [
     credentials: "ACCA · VACPA",
     image: "/images/partners/michael.jpg",
     alt: "Michael Pham, Partner at APP Consultancy",
+  },
+  {
+    name: "Vincent Choo Wing Sung",
+    title: "Partner · Head of Business",
+    credentials: "FCA (UK) · ACMA (UK) · CGMA · CA(M)",
+    image: "/images/partners/vincent.jpg",
+    alt: "Vincent Choo Wing Sung, Partner at APP Consultancy",
   },
 ] as const;

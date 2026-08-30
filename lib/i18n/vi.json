@@ -111,6 +111,7 @@
   "team.label.experience": "Kinh nghiệm",
   "team.label.firms": "Đã làm việc tại",
   "team.label.industries": "Lĩnh vực chuyên môn",
+  "team.label.email": "Email",
 
   "team.christ.experience": "20+ năm",
   "team.christ.firms": "Từng làm KPMG (10 năm)",
@@ -123,6 +124,10 @@
   "team.michael.experience": "17+ năm",
   "team.michael.firms": "Từng làm KPMG · BDO · Mazars · PKF",
   "team.michael.industries": "Ngân hàng · Đầu tư · Bán lẻ · Bất động sản · F&B",
+
+  "team.vincent.experience": "28+ năm",
+  "team.vincent.firms": "CT Group · Mapletree · Somerset",
+  "team.vincent.industries": "Bất động sản · Xây dựng · Logistics · Khách sạn",
 
   "availability.heading": "Chúng tôi luôn sẵn sàng tư vấn",
   "availability.heading_accent": "Linh hoạt theo lịch của bạn",
