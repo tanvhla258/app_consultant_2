@@ -151,7 +151,7 @@
   "contact.heading": "Hãy bắt đầu cuộc trò chuyện",
   "contact.body": "Bạn đã sẵn sàng chuyển đổi doanh nghiệp? Điền vào form và chúng tôi sẽ phản hồi trong vòng 24 giờ.",
   "contact.email_label": "Email",
-  "contact.email_value": "contact@appconsultancy.com",
+  "contact.email_value": "toandhnh@gmail.com",
   "contact.phone_label": "Điện thoại",
   "contact.phone_value": "+84 (0) 28 1234 5678",
   "contact.location_label": "Văn phòng",
@@ -169,5 +169,5 @@
   "contact.form.email_required": "Email là bắt buộc",
   "contact.form.email_invalid": "Vui lòng nhập email hợp lệ",
   "contact.form.message_required": "Nội dung là bắt buộc",
-  "contact.form.error_opening_email": "Không thể mở ứng dụng email. Vui lòng liên hệ trực tiếp tại contact@appconsultancy.com."
+  "contact.form.error_opening_email": "Không thể mở ứng dụng email. Vui lòng liên hệ trực tiếp tại toandhnh@gmail.com."
 }

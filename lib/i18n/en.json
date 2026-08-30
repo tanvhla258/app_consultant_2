@@ -151,7 +151,7 @@
   "contact.heading": "Let's Start a Conversation",
   "contact.body": "Ready to transform your business? Fill out the form and we'll get back to you within 24 hours.",
   "contact.email_label": "Email",
-  "contact.email_value": "contact@appconsultancy.com",
+  "contact.email_value": "toandhnh@gmail.com",
   "contact.phone_label": "Phone",
   "contact.phone_value": "+84 (0) 28 1234 5678",
   "contact.location_label": "Office",
@@ -169,5 +169,5 @@
   "contact.form.email_required": "Email is required",
   "contact.form.email_invalid": "Please enter a valid email",
   "contact.form.message_required": "Message is required",
-  "contact.form.error_opening_email": "Could not open email client. Please contact us directly at contact@appconsultancy.com."
+  "contact.form.error_opening_email": "Could not open email client. Please contact us directly at toandhnh@gmail.com."
 }

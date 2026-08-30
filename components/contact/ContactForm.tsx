@@ -16,7 +16,7 @@ interface FormErrors {
   message?: string;
 }
 
-const DEST_EMAIL = "contact@appconsultancy.com";
+const DEST_EMAIL = "toandhnh@gmail.com";
 
 export function ContactForm() {
   const { t } = useLang();
